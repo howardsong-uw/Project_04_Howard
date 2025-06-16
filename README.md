@@ -10,7 +10,6 @@ This project is a solution to the [Kaggle Spaceship Titanic](https://www.kaggle.
 │   ├── train.csv
 │   ├── test.csv
 │   └── sample_submission.csv
-├── utils.py                     # Preprocessing and feature engineering
 ├── main.py                      # Training LGBM and generating submission
 ├── download_data.py             # Script to download and extract data using Kaggle API
 ├── requirements.txt             # Python dependencies
