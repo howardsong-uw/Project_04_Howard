@@ -12,9 +12,11 @@ This project is a solution to the [Kaggle Spaceship Titanic](https://www.kaggle.
 │   └── sample_submission.csv
 ├── main.py                      # Training LGBM and generating submission
 ├── download_data.py             # Script to download and extract data using Kaggle API
+├── submit.py                    # Submit submission_ensemble.csv
 ├── requirements.txt             # Python dependencies
 ├── .gitignore                   # Git ignore rules
 └── README.md                    # Project documentation
+
 ```
 
 ## Dependencies
