@@ -50,7 +50,7 @@ python download_data.py
 Train the model and generate a submission file using LightGBM:
 
 ```bash
-python main.py
+python spaceship_titanic_project.py
 ```
 
 ## Features Used
