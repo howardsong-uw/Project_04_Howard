@@ -47,7 +47,7 @@ python download_data.py
 
 ## Train and Submit
 
-Train the model and generate a submission file using LightGBM:
+Train the model and generate a submission file:
 
 ```bash
 python spaceship_titanic_project.py
