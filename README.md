@@ -60,7 +60,7 @@ python main.py
 
 ## Results
 
-Model: `LightGBMClassifier`\
+Model: `LightGBMClassifier + RandomForest`\
 Validation Accuracy: \~80.5%
 
 
