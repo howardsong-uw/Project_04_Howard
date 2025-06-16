@@ -13,6 +13,7 @@ This project is a solution to the [Kaggle Spaceship Titanic](https://www.kaggle.
 ├── spaceship_titanic_project.py # Training LGBM and RandomForest Fusion moddel and generating submission
 ├── download_data.py             # Script to download and extract data using Kaggle API
 ├── data_loder.py                # Load downloaded data
+├── preprocess.py                # Processing of downloaded data
 ├── submit.py                    # Submit submission_ensemble.csv
 ├── requirements.txt             # Python dependencies
 ├── .gitignore                   # Git ignore rules
